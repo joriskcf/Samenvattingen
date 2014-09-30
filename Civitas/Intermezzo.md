@@ -14,3 +14,5 @@ Hierbij..
   * wordt geen rekening gehouden met verschuivingen binnen de rechthoek;
   * worden voorgaande regeringen aangegeven met een stippellijn.
 
+On-ingevuld ziet de rechthoek er zo uit:
+<img src="https://imgur.com/qLEx4tX">
