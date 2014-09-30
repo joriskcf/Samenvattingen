@@ -15,4 +15,4 @@ Hierbij..
   * worden voorgaande regeringen aangegeven met een stippellijn.
 
 On-ingevuld ziet de rechthoek er zo uit:
-<img src="https://imgur.com/qLEx4tX">
+<img src="https://i.imgur.com/qLEx4tX.png">
