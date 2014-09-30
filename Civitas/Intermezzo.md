@@ -17,4 +17,4 @@ Hierbij..
 On-ingevuld ziet de rechthoek er zo uit:
 <img src="https://i.imgur.com/qLEx4tX.png">
 
-Het boek definiëert **progressief** als "*vernieuwend, op verandering gericht, maar niet terug naar 'vroeger'*" en **konservatief** (sic) als "*op behoud gericht of terug naar 'vroeger'*". Volgens deze definitie zijn de begrippen niet in de rechthoek te plaatsen, omdat vernieuwende en traditionele ideeën zich overal op de rechthoek kunnen bevinden.
+Het boek definiëert **progressief** als *vernieuwend, op verandering gericht, maar niet terug naar 'vroeger'* en **konservatief** (sic) als *op behoud gericht of terug naar 'vroeger'*. Volgens deze definitie zijn de begrippen niet in de rechthoek te plaatsen, omdat vernieuwende en traditionele ideeën zich overal op de rechthoek kunnen bevinden.
