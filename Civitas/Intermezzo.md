@@ -24,26 +24,37 @@ Het boek definiëert **progressief** als *vernieuwend, op verandering gericht, m
 
 Als je bij maatschappijleer een sociaal probleem bestudeert, ga je stap voor stap zo'n zesduizend vragen na. Het boek noemt dit de "benaderingswijze".
 
-  * Het probleem
+  1. Het probleem
     * Wat zijn de belangrijkste **kenmerken** van het probleem?
     * Hoe **groot** is het?
     * Hoe is het probleem **onstaan**?
-  * Betrokken groepen en un visies
+  2. Betrokken groepen en un visies
     * Welke **groepen** zin er bij betrokken?
     * Waar kunnen we ze in de **SE** in de hoek zetten?
     * Welke **visies** hebben deze groepen over **oorzaak en aanpak** van het probleem?
     * Welke **ideologie** hebben die groepen?
     * Welke **waarden en belangen** zijn hun drijfveren?
     * Hoeveel **macht** hebben die groepen?
-  * Het beleid van de overheid
+  3. Het beleid van de overheid
     * Welke **overheidsinstanties** maken het beleid?
     * Welke **besluiten** worden genomen?
     * Wat zijn de **gevolgen** van het beleid?
-  * Systemen
+  4. Systemen
     * In welke **systemen** speelt het probleem zich af?
-  * Grote sociale processen
+  5. Grote sociale processen
     * Wat is de relatie van dit probleem met **sociale cohesie en sociale ongelijkheid**?
-  * Internationale vergelijking
+  6. Internationale vergelijking
     * Bestaat het probleem ook in **andere samenlevingen**?
     * Hoe hebben ze het daar **opgelost**?
+
+Na al deze vragen te hebben doorlopen vorm je een afgewogen eigen standpunt.
+
+De **systemen** (4) zijn de **cultureel, rechtsstatelijke, politieke en sociaal-economische**. Dit wordt pas in boek twee toegelicht.
+
+### Systemen in Nederland
+De systemen in Nederland zijn:
+  * economisch: Vrije Ondernemingsgewijze Productie
+  * sociaal-economisch: Verzorginsstaat
+  * politiek: Parlementaire Democratie met een Constitutioneel Koningschap
+  * cultuur: Pluriforme Cultuur
 
