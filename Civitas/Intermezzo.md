@@ -58,3 +58,16 @@ De systemen in Nederland zijn:
   * politiek: Parlementaire Democratie met een Constitutioneel Koningschap
   * cultuur: Pluriforme Cultuur
 
+## Informatie verzamelen uit massamedia
+
+Een **krant** is een dagblad waar je voor moet betalen. Bij het vak maatschappijleer moeten ze je skere huis-aan-huisblad namelijk niet. De Telegraaf is dus wel een krant. Opiniebladen zijn geen kranten, maar die zijn wel cool.
+
+Informatie is op verschillende manieren in te delen:
+  1. OB/UB
+    * **Onmiddelijke beloning (OB)**: weinig inhoud, makkelijk op te nemen
+    * **Uitgestelde beloning (UB)**: moeilijker te volgen, nuttige achtergrondkennis
+  2. kader/massa
+    * **kader**: kleine (hoogopgeleide) doelgroep, meer UB, 'serieuze' onderwerpen
+    * **massa**: breed publiek, meer OB, populaire/entertainment onderwerpen
+  3. nationale/regionale media
+  4. ochtend-, middag-, avondkranten
