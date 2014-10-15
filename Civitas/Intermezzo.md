@@ -69,5 +69,25 @@ Informatie is op verschillende manieren in te delen:
   2. kader/massa
     * **kader**: kleine (hoogopgeleide) doelgroep, meer UB, 'serieuze' onderwerpen
     * **massa**: breed publiek, meer OB, populaire/entertainment onderwerpen
-  3. nationale/regionale media
-  4. ochtend-, middag-, avondkranten
+  3. **nationale/regionale media**
+  4. **verzuiling & doelgroepen**
+
+Daarnaast zijn ochtend-, middag- en avondkranten te onderscheiden.
+
+Kranten en omroepen **verzamelen** hun informatie van persbureaus en eigen journalisten. De redactie **verwerkt** de informatie tot een bij de visie van de doelgroep passend bericht/programma en geeft het **vorm**, waarbij **selectie** plaatsvindt. Bij elektronische media (tv, radio) is **verspreiding** ook van belang, omdat de kabelaar hier invloed op heeft.
+
+Het karakter van een krant heet de **formule** en hangt samen met de doelgroep.
+
+Voor het maken van een objectief bericht gelden de volgende **journalistieke normen**:
+  * informatie uit verschillende bronnen
+  * beide kanten vertegenwoordigd
+  * scheiding feiten/mening (mening blijft weg)
+
+### Theorieën over media-invloed
+  * **Selectieve waarnemingstheorie**: om niet overspannen te raken consumeren mensen vooral informatie die past in hun **referentiekader**.
+  * **Selectieve verwerkingstheorie**: mensen vergeten informatie die niet in hun referentiekader past sneller, of ze vormen deze om zodat ze wel past. Tegenstrijdige informatie wordt zo veel mogelijk onschadelijk gemaakt door tegeninformatie te zoeken (**cognitieve dissonantie**).
+  * **Injectienaaldtheorie**: Mensen kunnen informatie worden 'ingespoten' die ze helemaal opnemen. In onze samenleving klopt dit niet, in oorlog meer.
+  * **Opinileiderstheorie**: media beïnvloeden je door informatie over te brengen via mensen uit je omgeving. Weinig aanhangers wat betreft nieuws, veel in het geval van reclame.
+  * **Agendatheorie**: door herhaling en benadrukking van informatie dringt deze uitendelijk toch door.
+
+De huidige conclusie is dat de media wel invloed hebben op de *onderwerpen* waar mensen over nadenken/praten (agendatheorie), maar dat selectieve waarneming/verwerking en cognitieve dissonantie bepalen wat blijvend wordt opgenomen.
